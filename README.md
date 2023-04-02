@@ -1,4 +1,3 @@
-# Link: <diveinkust.github.io>
-[Link](diveinkust.github.io "go site")
+# diveinkust.github.io
 
-Link : <[diveinkust.github.io](https://diveinkust.github.io)>
+Link : [diveinkust.github.io](https://diveinkust.github.io)
