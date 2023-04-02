@@ -1,1 +1,1 @@
-# [link]:diveinkust.github.io
+# [Link]:diveinkust.github.io
